@@ -1,0 +1,22 @@
+
+nav{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.topleft {
+    color: aqua;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 60px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .card{
+    background-color:rgba(7, 7, 7, 0.8);
+    color: whitesmoke;
+    height: 80vh;
+    width: 60vh;
+  }
